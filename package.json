@@ -1,0 +1,1 @@
+{"description":"Museum of the Year 3000 — one-line museum label for a group chat (make.fun bounty entry)","name":"makefun-museum-3000","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
